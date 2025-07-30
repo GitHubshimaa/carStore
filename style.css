@@ -1,0 +1,18 @@
+body{
+  background-color:rgb(175, 104, 104);
+  background-image:url('car3.jpeg');
+  background-repeat:no-repeat;
+  background-size:700px;
+  background-attachment:fixed;
+  background-position:right;
+
+}
+h1{
+    color:rgb(96, 84, 84);
+    padding:0px 80px  
+}
+img{
+  width:500px;
+  padding:50px;
+  margin-right: auto;
+ }
